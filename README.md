@@ -1,4 +1,4 @@
- # Elevador_Inteligente
+ # Elevador Inteligente
 Simulador interativo de elevador desenvolvido para um desafio de programação, comparando algoritmos de atendimento de chamadas."
 
 Tecnologias e Conceitos Utilizados
@@ -8,7 +8,7 @@ Tecnologias e Conceitos Utilizados
 
 ---
 
-## 📑 Relatório Técnico (Respostas do Desafio)
+## Relatório Técnico (Respostas do Desafio)
 
 ### 1. Criar um algoritmo
 O algoritmo foi totalmente desenvolvido em Python e está estruturado no arquivo `elevador.py`. Ele simula o comportamento físico do elevador, contabilizando o tempo gasto para abrir/fechar as portas (5 segundos por parada) e o tempo de deslocamento entre andares (3 segundos por andar).
